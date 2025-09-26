@@ -1,4 +1,4 @@
-# Asset Directory Management System
+# Asset Tree Directory System
 
 A multi-brand asset management system built with Astro, React, and Tailwind CSS. This system allows you to organize and manage digital assets across multiple brands with an intuitive accordion-style interface.
 
@@ -6,7 +6,7 @@ A multi-brand asset management system built with Astro, React, and Tailwind CSS.
 
 This asset directory system provides:
 - **Multi-brand support** - Manage assets for different brands (Asheville Dispensary, plantbar, etc.)
-- **Accordion-style categories** - Categories expand to reveal organized asset links
+- **Accordion-style categories** - Categories expand to reveal organized Asset Nodes links
 - **Search functionality** - Find assets quickly across all brands
 - **Admin interface** - Easy content management for brands, categories, and links
 - **Brand theming** - Each brand has its own visual identity
@@ -17,7 +17,7 @@ This asset directory system provides:
 - **Brand Selection** - Choose which brand's assets to view
 - **Category Organization** - Assets organized into expandable categories (Branding, Products, Retail, etc.)
 - **Asset Links** - Direct access to digital assets with descriptions
-- **Real-time Search** - Find assets across all brands and categories
+- **Real-time Search** - Find asset nodes across all brands and categories
 - **Admin Dashboard** - Manage brands, categories, and links
 
 ### UI/UX Features
